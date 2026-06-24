@@ -1,4 +1,4 @@
-````markdown
+
 # 🔗 URL Shortener
 
 A simple and efficient URL Shortener web application built with Django. This application allows users to convert long URLs into short, shareable links and redirect users to the original destination URL.
